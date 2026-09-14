@@ -4,6 +4,8 @@
 
 ![플레이 화면](docs/images/gameplay-03.png)
 
+[Windows 제출 빌드 다운로드](https://github.com/yongbeom-kim-spacewhale/dream-of-circle/releases/tag/v1.0-submission)
+
 ## 프로젝트 정보
 
 - 기간: 2026.01.31, 1일
