@@ -2,9 +2,10 @@
 
 보스의 공격을 **예측 → 회피 → 반격**하는 핵심 반복에 집중한 Unity 2D 보스전 액션 게임입니다.
 
-![플레이 화면](docs/images/gameplay-03.png)
+![Dream Of Circle 한 장 소개](docs/overview/one-page-overview.png)
 
-[Windows 제출 빌드 다운로드](https://github.com/yongbeom-kim-spacewhale/dream-of-circle/releases/tag/v1.0-submission)
+[한 장 소개 PDF](docs/overview/one-page-overview.pdf) · [Windows 제출 빌드](https://github.com/yongbeom-kim-spacewhale/dream-of-circle/releases/tag/v1.0-submission)
+
 
 ## 프로젝트 정보
 
